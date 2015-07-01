@@ -1,4 +1,4 @@
 # google-homepage
-# Google Homepage Mockup
+Google Homepage Mockup
 
-# Created for www.theodinproject.com/web-development-101
+Created for www.theodinproject.com/web-development-101
